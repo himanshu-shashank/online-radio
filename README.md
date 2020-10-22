@@ -15,4 +15,4 @@ Steps to run online radio :-
 Other Details:
 Audio streaming server used is ICECAST2 which is already installed on server.
 You can see the server statistic on http://whattelse.com:8000/.
-Software for streaming audio which i have used is RadioBoss. For brodcasting, servrname is "www.whattelse.com:8000/live".
+Software for streaming audio which I                                                                                                                             have used is RadioBoss. For brodcasting, servrname is "www.whattelse.com:8000/live".

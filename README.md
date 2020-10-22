@@ -10,3 +10,9 @@ Steps to run online radio :-
 6)choose server type "Icecast 1&2".,click next.
 7)enter server address-> "www.whattelse.com" ,port->8000 ,password->"******"and mount->" /live" ,click finish & then click ok
 8)brodcasting will start as can be seen in log dialog box in bottom left.                                                                                                                        .
+
+
+Other Details:
+Audio streaming server used is ICECAST2 which is already installed on server.
+You can see the server statistic on http://whattelse.com:8000/.
+Software for streaming audio which i have used is RadioBoss. For brodcasting, servrname is "www.whattelse.com:8000/live".
